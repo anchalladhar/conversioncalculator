@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">calculator</string>
+    <string name="input">input :</string>
+    <string name="output">Output:</string>
+    <string name="select_conversion_type">Select Conversion Type:</string>
+    <string name="convert">Convert</string>
+    <string name="enter_value">Enter Value</string>
+    <string name="buttonconvert">Convert</string>
+
+</resources>
